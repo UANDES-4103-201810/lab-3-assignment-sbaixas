@@ -3,11 +3,11 @@
 one:
   name: MyString
   description: MyText
-  start_date: 2018-03-27 13:20:31
-  place: 
+  start_date: 2018-03-27 13:30:19
+  place: one
 
 two:
   name: MyString
   description: MyText
-  start_date: 2018-03-27 13:20:31
-  place: 
+  start_date: 2018-03-27 13:30:19
+  place: two
